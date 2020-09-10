@@ -8,12 +8,11 @@
 ## 2. 项目技术栈：Netty、Json序列化、zookeeper注册中心
 
 ## 3. 知识背景
-1. RPC相关知识：
+1. RPC相关知识
 
-2. Dubbo基本功能
-  1. 远程服务调用
-  2. 负载均衡
-  3. 服务注册中心
+2. Dubbo基本功能：远程服务调用、负载均衡、服务注册中心
+
+3. 序列化相关知识
   
 ## 4. 版本更替：
 1. [version0](https://github.com/ks-39/MyRPC/blob/master/RPC_Version0%E2%80%94%E2%80%94BIO%E4%BC%AA%E5%BC%82%E6%AD%A5%E6%A8%A1%E5%9E%8B.md)：BIO伪异步模型
